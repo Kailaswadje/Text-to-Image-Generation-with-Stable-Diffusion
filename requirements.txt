@@ -1,0 +1,8 @@
+diffusers>=0.30.0
+transformers>=4.44.0
+accelerate>=0.34.0
+hf_transfer>=0.1.8
+torch>=2.0.0
+jupyter>=1.0.0
+ipython>=8.0.0
+notebook>=7.0.0
